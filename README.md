@@ -1,7 +1,7 @@
 <h1 align="center">Hi!!! I'm Gayatri✨</h1>
 
 <p align="center">
-  <em>Learning to be a better developer/coder/programmer</em>
+  <em>Passionate about building impactful solutions through full-stack development, problem-solving, and data-driven insights.</em>
 </p>
 
 ---
@@ -73,5 +73,5 @@ I’m currently in my final year of engineering, building web applications using
 ---
 
 <p align="center">
-  <em>Let’s build something impactful together, open to collaborations, internships, and projects.</em>
+  <em>I’m always open to meaningful collaborations, exciting internships, and impactful projects.</em>
 </p>
