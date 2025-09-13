@@ -6,7 +6,7 @@
 
 ---
 <img src="https://komarev.com/ghpvc/?username=gayurn2310&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
----
+
 ## About Me
 
 I’m currently in my final year of engineering, building web applications using the **MERN** stack and strengthening my problem-solving skills by practicing **DSA** in **Java**. I’m also preparing for the **AWS Solutions Architect Associate Certification**. With a strong interest in **Data Science**, I aspire to build a career in this field and am actively seeking opportunities for professional growth through internships and collaborative projects.
