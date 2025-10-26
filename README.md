@@ -19,7 +19,6 @@ I’m currently in my final year of engineering, building web applications using
 
 ### Professional Links
 
--   **Portfolio:** [Gayatri](https://grn-portfolio.vercel.app/)
 -   **Resume:** [View Document](https://drive.google.com/file/d/1FDOivqktSSalvm_IobbT3WPOWb6Sfeet/view)
 -   **Contact:** [gayu.nadar2310@gmail.com](mailto:gayu.nadar2310@gmail.com)
 
